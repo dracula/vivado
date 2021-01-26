@@ -1,10 +1,10 @@
-### [X](http://link-to-x.com)
+### [Vivado](https://www.xilinx.com/products/design-tools/vivado.html)
 
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:
 
-    $ git clone https://github.com/dracula/template.git
+    $ git clone https://github.com/dracula/vivado.git
 
 #### Install manually
 
@@ -12,6 +12,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/template/ar
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Locate your theme folder, in windows will be `C:\Users\USER\AppData\Roaming\Xilinx\Vivado\VERSION\themes`
+2. Copy [Dracula.xmltheme](./Dracula.xmltheme) to the folder (sometimes you will have tu restart the computer)
+3. Open Vivado, go to `Tools -> Settings -> Colors`
+4. Select `Dracula`
