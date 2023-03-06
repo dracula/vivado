@@ -15,6 +15,6 @@ Download using the [GitHub .zip download](https://github.com/dracula/vivado/arch
 1. Locate your theme folder:
     1. In Windows will be `C:\Users\USER\AppData\Roaming\Xilinx\Vivado\VERSION\themes`
     2. In Linux will be `$HOME/.Xilinx/Vivado/VERSION/themes`
-2. Copy [Dracula.xmltheme](./Dracula.xmltheme) to the folder (sometimes you will have tu restart the computer)
+2. Copy [Dracula.xmltheme](./Dracula.xmltheme) to the folder (sometimes you will have to restart the computer)
 3. Open Vivado, go to `Tools -> Settings -> Colors`
 4. Select `Dracula`
